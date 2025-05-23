@@ -46,6 +46,5 @@ CGPA: 9.36/10
 
 - 📧 Email: [benitaroyjose@gmail.com](mailto:benitaroyjose@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/benitaroy312005](https://linkedin.com/in/benitaroy312005)  
-- 💻 GitHub: [github.com/Benita-31](https://github.com/Benita-31)
 
 ---
