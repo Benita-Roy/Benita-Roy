@@ -1,4 +1,3 @@
-### Hi, I'm Benita!
 # Hi, I'm Benita Roy 👩‍💻
 
 I’m an engineering student specializing in **Information Technology** with a passion for building intelligent, real-time systems. My focus lies in **speech processing**, **frontend development**, and **applied machine learning**. I enjoy combining technical knowledge with user-centric design to create meaningful solutions.
