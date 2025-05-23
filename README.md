@@ -1,16 +1,52 @@
-## Hi there 👋
+### Hi, I'm Benita!
+# Hi, I'm Benita Roy 👩‍💻
 
-<!--
-**Benita-Roy/Benita-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an engineering student specializing in **Information Technology** with a passion for building intelligent, real-time systems. My focus lies in **speech processing**, **frontend development**, and **applied machine learning**. I enjoy combining technical knowledge with user-centric design to create meaningful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages**: Python, Java, C, JavaScript, HTML, CSS, jQuery  
+**Technologies**: Whisper, Wav2Vec2, DistilBERT, Flutter, MySQL, Git, Figma  
+**Tools**: Blender, Godot Engine, Arduino, GitHub
+
+---
+
+## 📌 Projects
+
+- **Speech-to-Text & Sentiment Analysis**  
+  Real-time voice analysis using Whisper + DistilBERT to classify six emotions. Achieved over 85% accuracy.
+
+- **Heart Sound Jacket (SCTIMST)**  
+  Mobile UI for simulating heart murmurs using Arduino hardware. Designed and validated with clinical practitioners.
+
+---
+
+## 💼 Experience
+
+- **Research Intern** – NIT Calicut  
+  Conducted a fine-grained complexity study on graph problems.
+
+- **Tutor** – Computer Organization  
+  Delivered 8+ hours of online instruction on processor architecture.
+
+- **Sales Associate** – Ibwis Supermarket  
+  Managed 60+ transactions/day and maintained records across multiple ledgers.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology** – GEC Barton Hill, Trivandrum  
+CGPA: 9.36/10
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [benitaroyjose@gmail.com](mailto:benitaroyjose@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/benitaroy312005](https://linkedin.com/in/benitaroy312005)  
+- 💻 GitHub: [github.com/Benita-31](https://github.com/Benita-31)
+
+---
