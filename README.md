@@ -6,7 +6,7 @@ I’m an engineering student specializing in **Information Technology** with a p
 
 ## 🛠️ Skills
 
-**Programming Languages**: Python, Java, C, JavaScript  
+**Programming Languages**: C, Python, Java, JavaScript  
 **Web Technologies**: HTML, CSS, jQuery  
 **Machine Learning Libraries**: Whisper, Wav2Vec2, DistilBERT  
 **Frameworks & Tools**: Flutter, MySQL, Git, Figma, Blender, Godot Engine 
