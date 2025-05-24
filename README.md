@@ -34,7 +34,7 @@ I’m an engineering student specializing in **Information Technology** with a p
   Delivered 8+ hours of online instruction on processor architecture.
 
 - **Sales Associate** – Ibwis Supermarket  
-  Managed 60+ transactions/day and maintained records across multiple ledgers.
+  Managed 80+ transactions/day and maintained records across multiple ledgers alongsie managing supplier payments.
 
 ---
 
