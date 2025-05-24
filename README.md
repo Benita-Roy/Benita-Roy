@@ -6,9 +6,10 @@ I’m an engineering student specializing in **Information Technology** with a p
 
 ## 🛠️ Skills
 
-**Languages**: Python, Java, C, JavaScript, HTML, CSS, jQuery  
-**Technologies**: Whisper, Wav2Vec2, DistilBERT, Flutter, MySQL, Git, Figma  
-**Tools**: Blender, Godot Engine, Arduino, GitHub
+**Programming Languages**: Python, Java, C, JavaScript  
+**Web Technologies**: HTML, CSS, jQuery  
+**Frameworks & Tools**: Flutter, MySQL, Git, Figma, Blender, Godot Engine 
+**Machine Learning Libraries**: Whisper, Wav2Vec2, DistilBERT  
 
 ---
 
@@ -38,13 +39,11 @@ I’m an engineering student specializing in **Information Technology** with a p
 ## 🎓 Education
 
 **B.Tech in Information Technology** – GEC Barton Hill, Trivandrum  
-CGPA: 9.36/10
+**CGPA**: 9.36/10
 
 ---
 
 ## 📫 Connect with Me
 
 - 📧 Email: [benitaroyjose@gmail.com](mailto:benitaroyjose@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/benitaroy312005](https://linkedin.com/in/benitaroy312005)  
-
----
+- 💼 LinkedIn: [linkedin.com/in/benitaroy312005](https://linkedin.com/in/benitaroy312005)
