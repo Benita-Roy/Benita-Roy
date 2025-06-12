@@ -14,11 +14,12 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 ## 🔧 Tech Stack
 
 **Languages**: Python, C, Java, JavaScript  
-**ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice 
-**Frontend**: HTML, CSS 
-**Version Control**:Git 
-**Database**: MySQL 
-**Core**: Data Structures, Algorithms, Operating Systems, Computer Networks, Database Management System, Computer Organisation, Theory of Computation 
+**ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice  
+**Frontend**: HTML, CSS  
+**Version Control**: Git  
+**Database**: MySQL  
+**Core Subjects**: Data Structures, Algorithms, Operating Systems, Computer Networks, DBMS, Computer Organisation, Theory of Computation
+
 
 ---
 
