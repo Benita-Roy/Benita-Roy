@@ -49,10 +49,10 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 📧 [benitaroyjose@gmail.com](mailto:benitaroyjose@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/benitaroy312005)  
+-  [benitaroyjose@gmail.com](mailto:benitaroyjose@gmail.com)  
+-  [LinkedIn](https://linkedin.com/in/benitaroy312005)  
 
 ---
 
