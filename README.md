@@ -8,7 +8,6 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 - 🎙 **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
 - 🧮 **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
-- 💻 **End-to-End Systems** – Full pipelines from raw data/audio → model → command execution or UI feedback
 
 ---
 
@@ -25,9 +24,9 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ## 🛠️ Projects
 
-### 🔊 Personal Voice Assistant (WIP)
+### 🔊 Personal Voice Assistant 
 > Wake-word activated, real-time assistant.  
-> Built from scratch with a custom STT pipeline and intent handling system.  
+> Built from scratch with a custom STT pipeline and intent handling system. (IN PROGRESS)
 > Emphasis: **low latency**, **on-device inference**, and **no pre-glued models**.
 
 ### 🗣 Emotion Detection from Speech  
