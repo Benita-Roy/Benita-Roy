@@ -4,7 +4,7 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ---
 
-## 🧠 What I Work On
+## 🧠 What I'm Currently Working On
 
 - 🎙 **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
 - 🧮 **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
