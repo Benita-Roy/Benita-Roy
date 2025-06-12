@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Benita Roy
+#  Hi, I'm Benita Roy
 
 I'm a final-year B.Tech student in **Information Technology**, focused on building **real-time voice systems** and solving problems in **applied machine learning** and **algorithmic graph theory**. I care about technical clarity, low-latency interaction, and building things from scratch when it matters.
 
 ---
 
-## 🧠 What I'm Currently Working On
+##  What I'm Currently Working On
 
-- 🎙 **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
-- 🧮 **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
+-  **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
+-  **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 **Languages**: Python, C, Java, JavaScript  
 **ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice  
@@ -23,29 +23,29 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ---
 
-## 🛠️ Projects
+##  Projects
 
-### 🔊 Personal Voice Assistant 
+###  Personal Voice Assistant 
 > Wake-word activated, real-time assistant.  
 > Built from scratch with a custom STT pipeline and intent handling system. (IN PROGRESS)
 > Emphasis: **low latency**, **on-device inference**, and **no pre-glued models**.
 
-### 🫀 Heart Sound Jacket (SCTIMST)  
+###  Heart Sound Jacket (SCTIMST)  
 > Flutter UI for simulating 10+ cardiac conditions via Arduino hardware.  
 > Validated with clinical practitioners, focused on clarity and responsiveness.
 
-### 🗣 Emotion Detection from Speech  
+###  Emotion Detection from Speech  
 > Transcribed audio using Whisper, classified emotion using DistilBERT.  
 > Achieved **85%+ accuracy** across 6 classes.  
 > Built to test how models respond to **real, noisy input** — not just ideal samples.
 
 ---
 
-## 🏅 Highlights
+##  Highlights
 
-- ✅ **GATE 2025 Qualified**
-- 🏆 **Academic Excellence Award** (Topper – 2023–24, GEC Barton Hill)
-- 📜 **Google Certified** – Foundations of UX Design
+-  **GATE 2025 Qualified**
+-  **Academic Excellence Award** (Topper – 2023–24, GEC Barton Hill)
+-  **Google Certified** – Foundations of UX Design
 
 ---
 
