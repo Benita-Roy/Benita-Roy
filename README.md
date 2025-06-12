@@ -14,11 +14,11 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 ## 🔧 Tech Stack
 
 **Languages**: Python, C, Java, JavaScript  
-**Core**: Data Structures, Algorithms, Operating Systems, Computer Networks, Database Management System, Computer Organisation, Theory of Computation
-**ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice
-**Frontend**: HTML, CSS
-**Version Control**:Git
-**Database**: MySQL
+**ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice 
+**Frontend**: HTML, CSS 
+**Version Control**:Git 
+**Database**: MySQL 
+**Core**: Data Structures, Algorithms, Operating Systems, Computer Networks, Database Management System, Computer Organisation, Theory of Computation 
 
 ---
 
@@ -29,14 +29,14 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 > Built from scratch with a custom STT pipeline and intent handling system. (IN PROGRESS)
 > Emphasis: **low latency**, **on-device inference**, and **no pre-glued models**.
 
+### 🫀 Heart Sound Jacket (SCTIMST)  
+> Flutter UI for simulating 10+ cardiac conditions via Arduino hardware.  
+> Validated with clinical practitioners, focused on clarity and responsiveness.
+
 ### 🗣 Emotion Detection from Speech  
 > Transcribed audio using Whisper, classified emotion using DistilBERT.  
 > Achieved **85%+ accuracy** across 6 classes.  
 > Built to test how models respond to **real, noisy input** — not just ideal samples.
-
-### 🫀 Heart Sound Jacket (SCTIMST)  
-> Flutter UI for simulating 10+ cardiac conditions via Arduino hardware.  
-> Validated with clinical practitioners, focused on clarity and responsiveness.
 
 ---
 
