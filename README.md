@@ -6,6 +6,7 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ##  What I'm Currently Working On
 
+-  **Full Stack Web Development** – User creation authentication, Post and Comment CRUD ops    
 -  **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
 -  **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
 
