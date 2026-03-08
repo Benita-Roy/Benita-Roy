@@ -20,17 +20,18 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 **Frontend**: HTML, CSS  
 **Version Control**: Git  
 **Database**: MySQL  
-**Core Subjects**: Data Structures, Algorithms, Operating Systems, Computer Networks, DBMS, Computer Organisation, Theory of Computation
+**Core Subjects**: Data Structures, Algorithms, Object Oriented Programming(OOPS), Operating Systems, Computer Networks, DBMS, Computer Organisation, Theory of Computation
 
 
 ---
 
 ##  Projects
 
-###  Personal Voice Assistant 
-> Wake-word activated, real-time assistant.  
-> Built from scratch with a custom STT pipeline and intent handling system. (IN PROGRESS)
-> Emphasis: **low latency**, **on-device inference**, and **no pre-glued models**.
+### Braille Learning Aid  
+> Adaptive Braille training system designed for visually impaired learners.  
+> Uses tactile Braille output, speech recognition, and performance tracking to teach characters interactively.
+> Tech: **Python, PyTorch, Librosa, SQLite**, with **Arduino Uno + servo motors** for physical Braille cell actuation and tactile output. 
+> Emphasis: **adaptive learning**, **multimodal feedback (touch + audio)**, and **student progress analytics**.
 
 ###  Heart Sound Jacket (SCTIMST)  
 > Flutter UI for simulating 10+ cardiac conditions via Arduino hardware.  
