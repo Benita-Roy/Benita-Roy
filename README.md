@@ -19,7 +19,7 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 **ML & Audio**: PyTorch, torchaudio, librosa, NumPy, SciPy, sounddevice  
 **Frontend**: HTML, CSS  
 **Version Control**: Git  
-**Database**: MySQL  
+**Database**: MySQL, MongoDB  
 **Core Subjects**: Data Structures, Algorithms, Object Oriented Programming(OOPS), Operating Systems, Computer Networks, DBMS, Computer Organisation, Theory of Computation
 
 
