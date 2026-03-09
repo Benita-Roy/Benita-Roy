@@ -20,6 +20,8 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 **Frontend**: HTML, CSS  
 **Version Control**: Git  
 **Database**: MySQL, MongoDB  
+**Game Development**: Godot Engine  
+**3D Modelling**: Blender  
 **Core Subjects**: Data Structures, Algorithms, Object Oriented Programming(OOPS), Operating Systems, Computer Networks, DBMS, Computer Organisation, Theory of Computation
 
 
