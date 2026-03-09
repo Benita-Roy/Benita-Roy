@@ -31,7 +31,7 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ### Braille Learning Aid  
 > Adaptive Braille training system designed for visually impaired learners.  
-> Uses tactile Braille output, speech recognition, and performance tracking to teach characters interactively.
+> Uses tactile Braille output, speech recognition, and performance tracking to teach characters interactively.  
 > Speech recognition has a test accuracy of **82.3%**.  
 > Tech: **Python, PyTorch, Librosa, SQLite**, with **Arduino Uno + servo motors** for physical Braille cell actuation and tactile output.  
 > Emphasis: **adaptive learning**, **multimodal feedback (touch + audio)**, and **student progress analytics**.
