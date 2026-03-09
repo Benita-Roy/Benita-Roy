@@ -6,7 +6,7 @@ I'm a final-year B.Tech student in **Information Technology**, focused on buildi
 
 ##  What I'm Currently Working On
 
--  **Braille Learning Aid** – Final year project which aims to create a braille learning aid whch will adapt to a students learning ability with feedbacks and reports
+-  **Braille Learning Aid** – Final year project which aims to create a braille learning aid utilising voice inputs from a user and speech recognition which will then adapt to a students learning ability with feedbacks and reports
 -  **Full Stack Web Development** – Developed secure user authentication (JWT + bcrypt) and implemented robust CRUD operations for posts and comments using Express.js, MongoDB, and Mongoose  
 -  **Speech Systems** – Wake word detection, speech-to-text, intent recognition, and emotion-aware voice interfaces  
 -  **Graph Complexity** – Fine-grained studies on variants of NP-hard problems (e.g. dominating sets in bisplit graphs)  
